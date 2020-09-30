@@ -1,0 +1,26 @@
+{
+  "name": "mon-tuto-node",
+  "version": "1.0.0",
+  "description": "Cours de node",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomas-mrld/mon-tuto-node.git"
+  },
+  "author": "Thomas Moraldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomas-mrld/mon-tuto-node/issues"
+  },
+  "homepage": "https://github.com/Thomas-mrld/mon-tuto-node#readme",
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
